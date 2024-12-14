@@ -8,8 +8,14 @@ AquaSafe is a powerful machine learning project designed to determine whether wa
 
 ### 🔍 **Algorithms Implemented**
 - Logistic Regression
-- Random Forest
+- Decision Tree Classifier
+- Random Forest Classifier
 - Extra Trees Classifier
+- Support Vector Classifier
+- K-Neighbors Classifier
+- Gradient Boosting Classifier
+- Naive Bayes
+- AdaBoost Classifier
 
 ### 🛠 **End-to-End Workflow**
 1. **Data Exploration & Visualization:** Understand water quality parameters with stunning charts.
@@ -57,7 +63,7 @@ jupyter notebook AquaSafe.ipynb
 
 ---
 
-## 🧩 How to Use
+## 🪩 How to Use
 
 1. Load the dataset: `water_potability.csv` (provided in the repository).
 2. Follow the notebook’s step-by-step cells to preprocess data, build models, and evaluate their performance.
