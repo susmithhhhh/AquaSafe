@@ -41,7 +41,7 @@ AquaSafe is a powerful machine learning project designed to determine whether wa
 
 ### 1. Clone the Repository
 ```bash
-$ git clone https://github.com/yourusername/AquaSafe.git
+git clone https://github.com/yourusername/AquaSafe.git
 $ cd AquaSafe
 ```
 
